@@ -1,4 +1,6 @@
-sts-b
-=====
+sts-b: SmartTalk Script - Basic
+=========================
 
-SmartTalkScript-Basic
+The **SmartTalk Script - Basic** is a script language for easy use.
+
+
